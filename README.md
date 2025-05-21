@@ -55,7 +55,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kartikpal1608/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kartikpal1608/)  
 - 📧 Email: kartikpal1608@outlook.com 
 - 💼 Portfolio: Coming soon! 
 
