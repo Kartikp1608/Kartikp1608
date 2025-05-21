@@ -33,8 +33,8 @@
 
 ### 📂 Featured Projects
 
-| 💼 Project | 🔗 Link | 🧠 Description |
-|-----------|---------|----------------|
+| 💼 Project | 🧠 Description |
+|-----------|----------------|
 | **HR Analytics Dashboard** |  Power BI + Python for analyzing employee attrition |
 | **Customer Churn Prediction** | ML-based churn prediction + Power BI storytelling |
 | **BigMart Sales Forecasting** |  ARIMA forecasting, sales insights, and Power BI |
